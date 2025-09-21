@@ -23,7 +23,7 @@ repository               : "https://github.com/justin-achan/justin-achan.github.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo_1.jpg"
+  avatar           : "profile_photo_1.jpeg"
   name             : "Justin Chan"
   pronouns         : "he/him"
   bio              : "Undergraduate student at The University of British Columbia interested in studiing plant adaptation through genomic methods."
